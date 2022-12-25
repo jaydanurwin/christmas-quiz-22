@@ -75,6 +75,11 @@ export class ChristmasQuiz extends LitElement {
       .options button:hover {
         background-color: #576f35;
       }
+      @media (hover: none) {
+        .options button {
+          background-color: #42532c;
+        }
+      }
     `,
   ];
 

@@ -50,11 +50,11 @@ export const questions: Question[] = [
   new Question(
     "What is the best selling Christmas song?",
     "White Christmas",
-    ["White Christmas", "Jingle Bells", "Silent Night", "All I Want for Christmas is You"],
+    [, "Jingle Bells", "Silent Night","White Christmas", "All I Want for Christmas is You"],
   ),
   new Question(
     "Which animal carried Mary before she gave birth to Jesus?",
     "Donkey",
-    ["Donkey", "Camel", "Horse", "Cow"],
+    ["Camel", "Horse", "Cow", "Donkey"],
   ),
 ];

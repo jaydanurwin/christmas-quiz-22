@@ -46,5 +46,15 @@ export const questions: Question[] = [
     `How many gifts in total were given in "The Twelve Days of Christmas" song?`,
     "364",
     ["12", "364", "144", "288"],
-  )
+  ),
+  new Question(
+    "What is the best selling Christmas song?",
+    "White Christmas",
+    ["White Christmas", "Jingle Bells", "Silent Night", "All I Want for Christmas is You"],
+  ),
+  new Question(
+    "Which animal carried Mary before she gave birth to Jesus?",
+    "Donkey",
+    ["Donkey", "Camel", "Horse", "Cow"],
+  ),
 ];
